@@ -11,4 +11,5 @@ Our projects are a web where everyone connects to something, but each one has it
 problem.
 
 ![Architecture](https://github.com/institute-atri/.github/blob/main/assets/architecture.png?raw=true)
+
 _**NOTE:** This architecture is under development and may undergo changes at any time._
