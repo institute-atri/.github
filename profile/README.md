@@ -1,10 +1,15 @@
-# ATRI - Advanced Technology Research Institute
+# 🍃 ATRI - Advanced Technology Research Institute
 
-## Who we are?
+We are a non-profit organization that seeks to develop free and open source software for the benefit of society.
 
-ATRI - Advanced Technology Research Institute is a non-profit organization that seeks to develop free software for the
-benefit of society.
+We develop software aimed at the areas of Cybersecurity, Forensics and Artificial Intelligence, where we use the most
+recent technologies on the market.
 
-# Projects
+## 🍃 Architecture and Projects
 
-![ATRI](../assets/architecture.png)
+Our projects are a web where everyone connects to something, but each one has its own purpose of solving a specific
+problem.
+
+![Architecture](https://github.com/institute-atri/.github/blob/main/assets/architecture.png?raw=true)
+
+_NOTE: This architecture is under development and may undergo changes at any time._
