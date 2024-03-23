@@ -10,6 +10,6 @@ where we use the most recent technologies on the market.
 Our projects are a web where everyone connects to something, but each one has its own purpose of solving a specific
 problem.
 
-![Architecture](https://github.com/institute-atri/.github/blob/main/assets/deep-architecture-drawio.png?raw=true)
+![Architecture](https://github.com/institute-atri/.github/blob/main/assets/deep-architecture.drawio.png?raw=true)
 
 _**NOTE:** This architecture is under development and may undergo changes at any time._
