@@ -33,9 +33,9 @@ Follow our team:
 
 ## 🍃 Cybersecurity Engineering
 
-|  [<img src="https://github.com/blackcrw.png?size=115" width=115><br><sub>@blackcrw</sub>](https://github.com/blackcrw)  | [<img src="https://github.com/Maria-Livia-Castro.png?size=115" width=115><br><sub>@Maria-Livia-Castro</sub>](https://github.com/Maria-Livia-Castro) | [<img src="https://github.com/davidfontesfelix.png?size=115" width=115><br><sub>@davidfontesfelix</sub>](https://github.com/davidfontesfelix) |
-|:-----------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------:|
-| **Matheus Rangel** <br> *Cybersecurity Engineer* <br> [LinkedIn](https://www.linkedin.com/in/matheus-rangel-71a9b7221/) |                                          **Lívia Castro** <br> *Cybersecurity Engineer* <br> [LinkedIn](#)                                          |              **David Fontes** <br> *Cybersecurity Engineer* <br> [LinkedIn](https://www.linkedin.com/in/david-fontes-9b84a4201/)              |
+|  [<img src="https://github.com/blackcrw.png?size=115" width=115><br><sub>@blackcrw</sub>](https://github.com/blackcrw)  |  [<img src="https://github.com/davidfontesfelix.png?size=115" width=115><br><sub>@davidfontesfelix</sub>](https://github.com/davidfontesfelix) |
+|:-----------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------:|
+| **Matheus Rangel** <br> *Cybersecurity Engineer* <br> [LinkedIn](https://www.linkedin.com/in/matheus-rangel-71a9b7221/) |              **David Fontes** <br> *Cybersecurity Engineer* <br> [LinkedIn](https://www.linkedin.com/in/david-fontes-9b84a4201/)              |
 
 ## 🍃 Data Engineering
 
